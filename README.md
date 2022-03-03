@@ -4,16 +4,21 @@ A collection of EVM related information. This is a repo that I created for mysel
 Thanks to ControlCPlusControlV for some of these references. Check out ControlCPlusControlV's [Github]() or [Twitter]().
 
 
+<br>
+
 ## Low Level EVM Info
 [Every EVM Opcode and cost](https://www.evm.codes/)
 
 
 <br>
 
+
 ## Tooling / Testing
 
 [Foundry](https://onbjerg.github.io/foundry-book/) (will add descriptions later, benefits, ect.)
 
+
+<br>
 
 
 ## Security 
@@ -22,7 +27,15 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 [Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
 
+
+<br>
+
+
 ## Gas Optimizations
+
+
+<br>
+
 
 ## Yul
 [Yul Docs](https://docs.soliditylang.org/en/latest/yul.html) 
@@ -30,6 +43,9 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 [Yul+ Docs](https://github.com/FuelLabs/yulp)
 
 [Vunerable Yul Patterns](https://github.com/Mikerah/solidity-bugs-and-vulns-in-yul)
+
+
+<br>
 
 
 ## General
