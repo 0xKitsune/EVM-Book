@@ -1,7 +1,11 @@
 # EVM-Book
 A collection of EVM related information. This is a repo that I created to keep track of all the useful links/information I have come across related to the EVM and put it in one place. I made it public in case anyone else wants to use it to explore specific EVM related topics.
 
+Thanks to ControlCPlusControlV for some of these references. Check out ControlCPlusControlV's [Github]() or [Twitter]().
 
+
+# Low Level
+[Every EVM Opcode and cost](https://www.evm.codes/)
 
 # Smart Contracts
 
@@ -12,6 +16,10 @@ A collection of EVM related information. This is a repo that I created to keep t
 
 
 ## Security 
+
+[Common smart contract exploits]()
+
+[Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
 
 
 ## Gas Optimizations
