@@ -23,7 +23,7 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 ## Security 
 
-[Common smart contract exploits]()
+[Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
 
 [Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
 
