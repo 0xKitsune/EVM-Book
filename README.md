@@ -56,7 +56,7 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 
 ## People to follow on Twitter
-[Transmissions11](https://twitter.com/transmissions11) (Highly optimized smart contract design tips/patterns as well as generally interesting EVM info).
+[Transmissions11](https://twitter.com/transmissions11) (Highly optimized smart contract design tips/patterns as well as interesting EVM info).
 
 
 
