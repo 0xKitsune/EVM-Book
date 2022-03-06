@@ -33,6 +33,7 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 ## Gas Optimizations
 
+[How arithmetic with values less than 32bytes are handled and why it costs more gas](https://docs.soliditylang.org/en/v0.8.12/assembly.html#conventions-in-solidity)
 
 <br>
 
