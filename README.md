@@ -36,8 +36,6 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 [How arithmetic with values less than 32bytes are handled and why it costs more gas](https://docs.soliditylang.org/en/v0.8.12/assembly.html#conventions-in-solidity)
 
-[Don't use i=0; when initializing for loops, just use i;](https://twitter.com/fiveoutofnine/status/1500502407712751618?s=20&t=PsOkiovoCcoka57-T3cS2w)
-
 [use ++i instead of i++](https://twitter.com/itsdevbear/status/1500368440657276929?s=20&t=ndWmPAuUYzoW42QukHd6Lw)
 <br>
 
