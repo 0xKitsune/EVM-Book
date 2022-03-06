@@ -42,6 +42,10 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 [Yul+ Docs](https://github.com/FuelLabs/yulp)
 
+[Inlining Yul In Solidity](https://docs.soliditylang.org/en/v0.8.12/assembly.html#inline-assembly)
+
+[Accessing Memory Explanation](https://ethereum.stackexchange.com/questions/34529/understanding-solidity-inline-assembly-code)
+
 [Vunerable Yul Patterns](https://github.com/Mikerah/solidity-bugs-and-vulns-in-yul)
 
 
