@@ -1,5 +1,5 @@
 # EVM-Book
-A collection of EVM related information. This is a repo that I created for myself to keep track of all the useful links/information I have come across related to the EVM and put it in one place. I made it public in case anyone else wants to use it to explore specific EVM related topics.
+A collection of EVM related information. This is a repo that I created for myself to keep track of all the useful links/information I have come across related to the EVM and put it in one place. I made it public in case anyone else wants to use it to explore specific EVM related topics. This document is a work in progess and will continually be updated.
 
 Thanks to ControlCPlusControlV for some of these references. Check out ControlCPlusControlV's [Github](https://github.com/ControlCplusControlV) and [Twitter](https://twitter.com/controlcthenv).
 
