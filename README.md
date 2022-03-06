@@ -10,6 +10,7 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 [Every EVM Opcode and cost](https://www.evm.codes/)
 
 
+
 <br>
 
 
@@ -34,7 +35,7 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 ## Gas Optimizations
 
 
-[How arithmetic with values less than 32bytes are handled and why it costs more gas](https://docs.soliditylang.org/en/v0.8.12/assembly.html#conventions-in-solidity)
+[How arithmetic with values less than 32bytes are handled and why it costs more gas](https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256)
 
 [use ++i instead of i++](https://twitter.com/itsdevbear/status/1500368440657276929?s=20&t=ndWmPAuUYzoW42QukHd6Lw)
 <br>
@@ -56,6 +57,8 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 
 ## General
+
+[Conventions in Solidity]((https://docs.soliditylang.org/en/v0.8.12/assembly.html#conventions-in-solidity)
 [ControlCPlusControlV's Yul (and Some Solidity) Optimizations and Tricks](https://hackmd.io/50TB8ZOTSCSWsfz0l0aF2g)
 
 
