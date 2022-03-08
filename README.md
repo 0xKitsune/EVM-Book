@@ -30,7 +30,7 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 [Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
 
-[Contract on contract warfare (Exploit contracts with other contracts)]()
+[Contract on contract warfare (exploit contracts with other contracts)]()
 
 
 <br>
