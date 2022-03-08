@@ -26,7 +26,11 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 [Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
 
+[Smart Contract Programmer's Hack Solidity Playlist](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)
+
 [Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
+
+[Contract on Contract Violence (Exploit contracts with other contracts)]()
 
 
 <br>
