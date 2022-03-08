@@ -62,7 +62,8 @@ Thanks to ControlCPlusControlV for some of these references. Check out ControlCP
 
 ## General
 
-[Conventions in Solidity]((https://docs.soliditylang.org/en/v0.8.12/assembly.html#conventions-in-solidity)
+[Conventions in Solidity](https://docs.soliditylang.org/en/v0.8.12/assembly.html#conventions-in-solidity)
+
 [ControlCPlusControlV's Yul (and Some Solidity) Optimizations and Tricks](https://hackmd.io/50TB8ZOTSCSWsfz0l0aF2g)
 
 
