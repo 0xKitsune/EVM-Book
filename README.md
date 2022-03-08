@@ -17,6 +17,8 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Foundry](https://onbjerg.github.io/foundry-book/) (will add descriptions later, benefits, ect.)
 
+[Hardhat (for when the task is outside of the bounds of Foundry)](https://hardhat.org/)
+
 
 <br>
 
