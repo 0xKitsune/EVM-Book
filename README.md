@@ -31,7 +31,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
 
-[Contract on contract warfare (exploit contracts with other contracts)]()
+[Contract warfare (linked soon)]()
 
 
 <br>
