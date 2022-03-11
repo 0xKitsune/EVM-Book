@@ -39,7 +39,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 ## Gas Optimizations
 
-[Solmate: Modern, opinionated, and gas optimized building blocks for smart contract development.](https://github.com/Rari-Capital/solmate/)
+[Solmate: gas optimized building blocks for smart contract development.](https://github.com/Rari-Capital/solmate/)
 
 [How arithmetic with values less than 32bytes are handled and why it costs more gas](https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256)
 
