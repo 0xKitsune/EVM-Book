@@ -39,6 +39,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 ## Gas Optimizations
 
+[Solmate: Modern, opinionated, and gas optimized building blocks for smart contract development.](https://github.com/Rari-Capital/solmate/)
 
 [How arithmetic with values less than 32bytes are handled and why it costs more gas](https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256)
 
@@ -61,7 +62,8 @@ A collection of EVM related information. This is a repo that I created for mysel
 <br>
 
 
-## General
+## General/Misc
+
 
 [Conventions in Solidity](https://docs.soliditylang.org/en/v0.8.12/assembly.html#conventions-in-solidity)
 
