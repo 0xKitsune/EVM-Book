@@ -31,11 +31,20 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Smart Contract Programmer's Hack Solidity Playlist](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)
 
+[Solidity Visual Auditor: Security centric syntax and semantic highlighting](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+
+[Surya: Visual outputs and information about a contract structure](https://github.com/ConsenSys/surya)
+
+[Smartbugs: A curated dataset of vulnerable solidity smart contracts](https://github.com/smartbugs/smartbugs/tree/master/dataset)
+
+[Which smart contract vunerability analyzers to use](https://soliditydeveloper.com/smart-contract-security-analyzers)
+
+[Use Slither](https://github.com/crytic/slither) AND [Mythril](https://github.com/ConsenSys/mythril) to automate vunerability testing (this does not replace an audit).
+
 [Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
 
 [Contract warfare (linked soon)]()
 
-[Security Knowledge/Tools List](https://github.com/0xKitsune/Smart-Contract-Security-And-Tools/blob/main/README.md)
 
 
 <br>
