@@ -19,6 +19,8 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Hardhat](https://hardhat.org/) (for when the task is outside of the bounds of Foundry)
 
+[Tenderly: Block explorer that provides very detailed transaction info.](https://dashboard.tenderly.co/explorer?utm_source=homepage)
+
 
 <br>
 
