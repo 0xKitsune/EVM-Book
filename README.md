@@ -39,9 +39,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Smartbugs: A curated dataset of vulnerable solidity smart contracts](https://github.com/smartbugs/smartbugs/tree/master/dataset)
 
-[Which smart contract vunerability analyzers to use? An analysis.](https://soliditydeveloper.com/smart-contract-security-analyzers) 
-
-Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.com/ConsenSys/mythril) together for automated vunerability testing. This does not replace an audit. 
+Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.com/ConsenSys/mythril) together for automated vunerability testing. This does not replace an audit. This is like scanning a contract at a high level and only picks up [~35% of vunerabilities accurately](https://soliditydeveloper.com/smart-contract-security-analyzers)
 
 [Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
 
