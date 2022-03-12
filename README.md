@@ -17,7 +17,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Foundry](https://onbjerg.github.io/foundry-book/)
 
-[Hardhat] (for when the task is outside of the bounds of Foundry)(https://hardhat.org/)
+[Hardhat](https://hardhat.org/) (for when the task is outside of the bounds of Foundry)
 
 
 <br>
