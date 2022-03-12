@@ -15,9 +15,9 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 ## Tooling / Testing
 
-[Foundry](https://onbjerg.github.io/foundry-book/) (will add descriptions later, benefits, ect.)
+[Foundry](https://onbjerg.github.io/foundry-book/)
 
-[Hardhat (for when the task is outside of the bounds of Foundry)](https://hardhat.org/)
+[Hardhat] (for when the task is outside of the bounds of Foundry)(https://hardhat.org/)
 
 
 <br>
