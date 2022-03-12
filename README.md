@@ -33,7 +33,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Contract warfare (linked soon)]()
 
-[Security Knowledge/Tools List (some info is outdated like overflows/underflows, so take that into consideration)](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
+[Security Knowledge/Tools List](https://github.com/0xKitsune/Smart-Contract-Security-And-Tools/blob/main/README.md)
 
 
 <br>
