@@ -39,6 +39,8 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.com/ConsenSys/mythril) together for automated vunerability testing. This does not replace an audit. This is like scanning a contract at a high level and only picks up [~37% of vunerabilities accurately](https://soliditydeveloper.com/smart-contract-security-analyzers)
 
+[List of all up to date Solidity Compiler Bugs](https://github.com/ethereum/solidity/blob/develop/docs/bugs.json)
+
 [Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/)
 
 [Contract warfare (linked soon)]()
