@@ -25,7 +25,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 ## Security 
 
-[Smart contract security 7 key principles](https://consensys.github.io/smart-contract-best-practices/general-philosophy/)
+[Smart contract security - key principles](https://consensys.github.io/smart-contract-best-practices/general-philosophy/)
 
 [Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
 
