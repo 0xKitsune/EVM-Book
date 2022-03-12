@@ -35,8 +35,6 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Solidity Visual Auditor: Security centric syntax and semantic highlighting](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 
-[Surya: Visual outputs and information about a contract structure](https://github.com/ConsenSys/surya)
-
 [Smartbugs: A curated dataset of vulnerable solidity smart contracts](https://github.com/smartbugs/smartbugs/tree/master/dataset)
 
 Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.com/ConsenSys/mythril) together for automated vunerability testing. This does not replace an audit. This is like scanning a contract at a high level and only picks up [~37% of vunerabilities accurately](https://soliditydeveloper.com/smart-contract-security-analyzers)
