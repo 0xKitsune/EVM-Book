@@ -71,6 +71,8 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 
 [Yul+ Docs](https://github.com/FuelLabs/yulp)
 
+[Yul+ Walkthrough](https://fuellabs.medium.com/introducing-yul-a-new-low-level-language-for-ethereum-aa64ce89512f)
+
 [Inlining Yul In Solidity](https://docs.soliditylang.org/en/v0.8.12/assembly.html#inline-assembly)
 
 [Accessing Memory Explanation](https://ethereum.stackexchange.com/questions/34529/understanding-solidity-inline-assembly-code)
