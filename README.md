@@ -54,6 +54,8 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 
 [Solmate: gas optimized building blocks for smart contract development.](https://github.com/Rari-Capital/solmate/)
 
+[Gas Golf Course: Gas tips and myths](https://github.com/ZeroEkkusu/re-golf-course#myths)
+
 [How arithmetic with values less than 32bytes are handled and why it costs more gas](https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256)
 
 [use ++i instead of i++](https://twitter.com/itsdevbear/status/1500368440657276929?s=20&t=ndWmPAuUYzoW42QukHd6Lw)
