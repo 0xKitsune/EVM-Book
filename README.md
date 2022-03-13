@@ -58,6 +58,10 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 
 [How arithmetic with values less than 32bytes are handled and why it costs more gas](https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256)
 
+[Use the balance() instruction instead of address(_addr).balance](https://twitter.com/0xKitsune/status/1502848663089041412/photo/1)
+
+[Use the selfbalance instruction instead of address(this).balance](https://twitter.com/0xKitsune/status/1502853068492349443/photo/1)
+
 [use ++i instead of i++](https://twitter.com/itsdevbear/status/1500368440657276929?s=20&t=ndWmPAuUYzoW42QukHd6Lw)
 <br>
 
