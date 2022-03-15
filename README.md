@@ -41,7 +41,7 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 
 [List of all up to date Solidity compiler bugs](https://github.com/ethereum/solidity/blob/develop/docs/bugs.json)
 
-[Damn Vulnerabile Defi: Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/) [Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)
+[Damn Vulnerabile Defi: Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/) (Or try the [Foundry Version)](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)
 
 [Contract warfare (linked soon)]()
 
