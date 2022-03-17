@@ -49,8 +49,7 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 
 [Damn Vulnerabile Defi: Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/) (Or try the [Foundry Version)](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)
 
-[Contract warfare (linked soon)]()
-
+[Ethernaut: Smart Contract CTF](https://ethernaut.openzeppelin.com/level/0x4E73b858fD5D7A5fc1c3455061dE52a53F35d966)
 
 
 <br>
