@@ -8,6 +8,12 @@ A collection of EVM related information. This is a repo that I created for mysel
 ## Low Level EVM Info
 [Every EVM Opcode and cost](https://www.evm.codes/)
 
+[Solidity -> Bytecode -> Opcodes](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
+
+[Memory Deep Dive](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b?s=r)
+
+[The EVM chapter in the Ethereum Book](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)
+
 
 
 <br>
