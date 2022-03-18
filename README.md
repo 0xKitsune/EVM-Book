@@ -14,6 +14,8 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [The EVM chapter in the Ethereum Book](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)
 
+[EVM Puzzles: Use calldata, calvalues and opcodes to solve EVM challenges](https://github.com/fvictorio/evm-puzzles)
+
 
 
 <br>
