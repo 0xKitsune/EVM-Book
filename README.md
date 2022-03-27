@@ -49,6 +49,8 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 
 [Damn Vulnerabile Defi: Smart contract offensive security challenges](https://www.damnvulnerabledefi.xyz/) (Or try the [Foundry Version)](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)
 
+[Solcurity: A security and code quality checklist](https://github.com/pynchmeister/solcurity)
+
 
 <br>
 
