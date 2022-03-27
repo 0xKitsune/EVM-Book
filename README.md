@@ -61,7 +61,7 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 
 [Use the `selfbalance()`instruction instead of `address(this).balance`](https://twitter.com/0xKitsune/status/1504149360057147400)
 
-[Use `iszero(x)` instead of `if (x)`](https://twitter.com/transmissions11/status/1474465495243898885)
+[Use `if iszero(x)` instead of `if (x)`](https://twitter.com/transmissions11/status/1474465495243898885)
 
 [use `++i` instead of `i++`](https://twitter.com/itsdevbear/status/1500368440657276929?s=20&t=ndWmPAuUYzoW42QukHd6Lw)
 <br>
