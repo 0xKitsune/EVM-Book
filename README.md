@@ -29,7 +29,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [Tenderly: Block explorer that provides very detailed transaction info.](https://dashboard.tenderly.co/explorer?utm_source=homepage)
 
-[Deth Tools: While browsing smart contract code on Etherscan, change URL from `.io` to `.deth.net`. This will open Visual Studio Code instance and fetch the verified code using Etherscan API.](https://twitter.com/dethcrypto/status/1471173109998882819)
+[DethCode: While browsing smart contract code on Etherscan, change URL from `.io` to `.deth.net`. This will open Visual Studio Code instance and fetch the verified code using Etherscan API.](https://twitter.com/dethcrypto/status/1471173109998882819)
 
 
 <br>
