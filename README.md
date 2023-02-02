@@ -16,7 +16,7 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [EVM Puzzles: Use calldata, calvalues and opcodes to solve EVM challenges](https://github.com/fvictorio/evm-puzzles)
 
-
+[Huff's EVM Tutorial](https://docs.huff.sh/tutorial/evm-basics/#technical)
 
 <br>
 
@@ -65,6 +65,10 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 
 [Patterns / Optimizations for gas savings](https://github.com/kadenzipfel/gas-optimizations)
 
+[EVM Gas optimizations with gas benchmarks](https://github.com/0xKitsune/EVM-Gas-Optimizations)
+
+[Solstat: A static analyzer to find gas optimizations and contract vulnerabilities](https://github.com/0xKitsune/solstat)
+
 <br>
 
 
@@ -80,11 +84,6 @@ Use [Slither](https://github.com/crytic/slither) AND [Mythril](https://github.co
 [Accessing Memory Explanation](https://ethereum.stackexchange.com/questions/34529/understanding-solidity-inline-assembly-code)
 
 [Vunerable Yul Patterns](https://github.com/Mikerah/solidity-bugs-and-vulns-in-yul)
-
-
-<br>
-
-## Zero Knowledge
 
 
 <br>
